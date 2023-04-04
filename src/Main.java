@@ -4,5 +4,6 @@ public class Main {
         System.out.print("Java is a good programming language");
 
         System.out.println("This is a new branch");
+        System.out.print("Java is a good programming language");
     }
 }
